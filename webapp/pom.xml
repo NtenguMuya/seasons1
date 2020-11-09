@@ -10,10 +10,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>season1</artifactId>
+  <artifactId>seasonfinal</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>Webapp.</description>
+  <name>seasonfinal</name>
+  <description>seasonfinal.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
